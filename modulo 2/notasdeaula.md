@@ -1,0 +1,9 @@
+git add. -prontas para comitar
+code . - abre vc code no diretório de interesse
+git status - verifica o status do diretorio
+mk dir nomepasta - cria dioretório
+cd ../ - retorna diretorio raiz
+cd nomepasta - abre pasta
+git remote add origin https://github.com/maitecuevas/potencia-feminina-git-e-github.git - endereço do github para vincular remotamente
+git remote - v - verifica a origem remota
+
